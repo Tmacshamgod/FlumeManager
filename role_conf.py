@@ -1,0 +1,1 @@
+role="flume_agent"
